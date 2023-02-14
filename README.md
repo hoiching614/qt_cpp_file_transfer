@@ -1,6 +1,6 @@
 # qt_cpp_file_transfer
 
-![alt text](https://github.com/hoiching614/qt_cpp_file_transfer/blob/main/Screenshot%20from%202023-02-11%2013-45-49.png)
+![alt text](https://github.com/hoiching614/qt_cpp_file_transfer/blob/main/Screenshot%20from%202023-02-14%2012-53-34.png)
 
 c++ gui 
 file transfer with certain file move to certain directory
